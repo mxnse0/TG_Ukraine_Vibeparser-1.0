@@ -1,0 +1,17 @@
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+.env
+data
+.git
+.gitignore
+tests
+*.md
+build
+dist
+*.spec
+assets
+scripts
+build_exe.ps1

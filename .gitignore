@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Local config and data
+.env
+data/
+*.db
+*.db-wal
+*.db-shm
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+build/
+dist/
+*.exe
+*.manifest
+
+# Screenshots / previews
+previews/
